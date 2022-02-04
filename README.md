@@ -3,5 +3,5 @@
 - Fill Examination Form. 
 - Download Admit card. 
 - Take and view leaves. 
-- Edit our personal details, etc.
+- Edit his/her personal details, etc.
 - Once the student logout then it redirected to login page.
