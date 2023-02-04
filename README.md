@@ -1,4 +1,4 @@
-# College-Application
+## Classimum
 ### It is a console based College-Application , in which students have facilities like ->
 - Create Account.
 - Login User.
